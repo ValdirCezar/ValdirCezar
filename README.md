@@ -1,3 +1,4 @@
+
 <div align="center">
 <h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"></h2>
 </div>
@@ -12,7 +13,11 @@
 -  [🤖](https://emojipedia.org/robot/) **Mechatronics technician**
 -  [💖](https://emojipedia.org/sparkling-heart/) **Passionate about technology**
 
-✔  **Hobbies :**  Read[📚](https://emojipedia.org/books/), Work out 💪, Music [🎧](https://emojipedia.org/headphone/)
+
+✔  **Hobbies :**  
+- [📚](https://emojipedia.org/books/) Read 
+- 💪Work out 
+- [🎧](https://emojipedia.org/headphone/)Music 
 
 
 <p align="center">
