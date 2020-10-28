@@ -13,12 +13,17 @@
 -  [🤖](https://emojipedia.org/robot/) **Mechatronics technician**
 -  [💖](https://emojipedia.org/sparkling-heart/) **Passionate about technology**
 
+##
 
 ✔  **Hobbies :**  
 - [📚](https://emojipedia.org/books/) Read 
 - 💪Work out 
 - [🎧](https://emojipedia.org/headphone/)Music 
+- [🏃](https://emojipedia.org/person-running/) Run
+- [💤](https://emojipedia.org/zzz/) Sleep
+- [👨🏼‍💻](https://emojipedia.org/man-technologist-medium-light-skin-tone/) Coding
 
+##
 
 <p align="center">
   <img src="https://miro.medium.com/max/1600/1*gReLR6hZjwyBxHmfLN1AVw.gif" />
