@@ -1,6 +1,6 @@
 
-<div align="center">
-<h1> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"></h2>
+<div>
+<h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"></h2>
 </div>
 
 **Hello guys! I live in Brazil, and I am a student of Software Engineering. I am also a Mechatronics Technician and I love to learn new things daily.**
@@ -47,4 +47,12 @@
 	<a href="https://www.instagram.com/valdir_cezar/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/ValdirCezar1"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
+	
+##
+<p align="center">
+	
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=valdircezar&theme=midnight-purple)
 
+</p>
+
+##
