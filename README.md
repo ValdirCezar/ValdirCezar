@@ -48,11 +48,6 @@
 	<a href="https://twitter.com/ValdirCezar1"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
 	
-##
-<p align="center">
-	
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=valdircezar&theme=midnight-purple)
 
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=valdircezar&show_icons=true&theme=gotham" alt="valdircezar" />
 
-##
