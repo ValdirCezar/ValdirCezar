@@ -24,13 +24,6 @@
 - [💤](https://emojipedia.org/zzz/) Sleep
 - [👨🏼‍💻](https://emojipedia.org/man-technologist-medium-light-skin-tone/) Coding
 
-<p align="center">
-	<a href="https://github.com/ValdirCezar"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/ValdirCezar/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/valdir_cezar/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/ValdirCezar1"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
-</p>
-
 ##
 
 
@@ -39,6 +32,12 @@
 	<p align="center">📗Quanto mais aprendo, mais me torno 🍀</p>
 </p>
 
+<p align="center">
+	<a href="https://github.com/ValdirCezar"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/ValdirCezar/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/valdir_cezar/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/ValdirCezar1"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML%20-%23F7DF1E.svg?&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
