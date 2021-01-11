@@ -28,7 +28,7 @@
 
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1600/1*gReLR6hZjwyBxHmfLN1AVw.gif" />
+  <img src="https://github.com/ValdirCezar/Autenticacao-Tokens-JWT/blob/master/src/imd-readme.gif?raw=true" />
 
 
 <p align="center">
