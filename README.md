@@ -9,12 +9,6 @@
 **I am currently working at a large IT consulting firm on a banking project.**
 
 ##
-- [💻](https://emojipedia.org/laptop/) **Systems Developer** 
--  [👨🏽‍💻](https://emojipedia.org/man-technologist-medium-skin-tone/) **Software Developer Student**
--  [🤖](https://emojipedia.org/robot/) **Mechatronics technician**
--  [💖](https://emojipedia.org/sparkling-heart/) **Passionate about technology**
-
-##
 
 ✔  **Hobbies :**  
 - [📚](https://emojipedia.org/books/) Read 
