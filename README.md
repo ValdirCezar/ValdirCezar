@@ -12,7 +12,7 @@
 	<a href="https://github.com/ValdirCezar"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/ValdirCezar/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/valdir_cezar/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/ValdirCezar1"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://twitter.com/ValdirCezar1"><img src="https://img.icons8.com/bubbles/50/twitter-squared.png" alt="Twitter"/></a>
 	<a href="https://www.youtube.com/c/DicasdeumDEV"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="youtube"/></a>
 </p>
 	
